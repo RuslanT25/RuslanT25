@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruslant25" alt="ruslant25" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce api](https://github.com/RuslanT25/TokenAuthProject)
+- 🔭 I’m currently working on [TokenAuthServer](https://github.com/RuslanT25/TokenAuthProject)
 
 - 🌱 I’m currently learning **Unit tests,jwt token,onion architecture**
 
