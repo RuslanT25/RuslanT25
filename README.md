@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslant25&label=Profile%20views&color=0e75b6&style=flat" alt="ruslant25" /> </p>
-
 # 💫 About Me:
-🔭 I’m currently working on [Ecommerce api](https://github.com/RuslanT25/TokenAuthProject)<br>🌱 I’m currently learning Unit tests, JWT Token, Onion architecure<br>💬 Ask me about  .Net Core, C#
+🔭 I’m currently working on [Auth Server api](https://github.com/RuslanT25/TokenAuthProject)<br>🌱 I’m currently learning Unit tests, JWT Token, Onion architecure<br>💬 Ask me about  .Net Core, C#
 
 
 # 💻 Tech Stack:
@@ -16,5 +14,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ruslant25&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslant25&label=Profile%20views&color=0e75b6&style=flat" alt="ruslant25" /> </p>
 ---
