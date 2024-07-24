@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">Software developer</h3>
 
-[![](https://visitcount.itsvg.in/api?id=ruslant25&icon=8&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslant25&label=Profile%20views&color=0e75b6&style=flat" alt="ruslant25" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on AuthServerApi<br>🌱 I’m currently learning Unit tests, JWT Token, Onion architecure<br>💬 Ask me about  .Net Core, C#
