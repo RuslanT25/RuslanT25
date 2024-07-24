@@ -16,3 +16,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruslant25&label=Profile%20views&color=0e75b6&style=flat" alt="ruslant25" /> </p>
 ---
+![snake gif](https://github.com/RuslanT25/RuslanT25/blob/output/github-contribution-grid-snake.svg)
