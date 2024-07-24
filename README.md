@@ -16,7 +16,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ruslant25&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ruslant25&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
