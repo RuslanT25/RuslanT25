@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
-<h3 align="center">Software developer</h3>
+<h3 align="center">.Net developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on [Ecommerce-api](https://github.com/RuslanT25/Ecommerce-Api)<br>🌱 I’m currently learning Unit tests, JWT Token, Onion architecure<br>💬 Ask me about  .Net Core, C#
