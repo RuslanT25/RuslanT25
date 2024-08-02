@@ -2,7 +2,7 @@
 <h3 align="center">.Net developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [Ecommerce-api](https://github.com/RuslanT25/Ecommerce-Api)<br>🌱 I’m currently learning Unit tests, JWT Token, Onion architecure<br>💬 Ask me about  .Net Core, C#
+🔭 I’m currently working on [Employee Management]([https://github.com/RuslanT25/Ecommerce-Api](https://github.com/RuslanT25/EmpoyeeManagement))<br>🌱 I’m currently learning Unit tests, JWT Token, Onion architecure<br>💬 Ask me about  .Net Core, C#
 
 
 # 💻 Tech Stack:
