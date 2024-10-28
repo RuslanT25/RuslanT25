@@ -2,7 +2,7 @@
 <h3 align="center">.Net developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [Employee Management]((https://github.com/RuslanT25/EmpoyeeManagement))<br>🌱 I’m currently learning Devexpress, Onion architecure<br>💬 Ask me about  .Net Core, C#<br>📧 How to reach me: tagizaderuslan25@gmail.com
+🔭 I’m currently working on [Employee Management]((https://github.com/RuslanT25/EmpoyeeManagement))<br>🌱 I’m currently learning Dart/Flutter<br>💬 Ask me about  .Net Core, C#<br>📧 How to reach me: tagizaderuslan25@gmail.com
 
 
 # 💻 Tech Stack:
